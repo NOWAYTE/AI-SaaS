@@ -34,3 +34,5 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+querydocs-c5cba-firebase-adminsdk-769od-a327cd55d1.json
