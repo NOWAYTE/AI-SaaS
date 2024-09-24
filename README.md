@@ -40,13 +40,15 @@ Copy code
 npm install
 
 
-Set up Environment Variables:
+## Set up Environment Variables
 
-Create a .env.local file in the root directory and add the necessary environment variables:
+1. Create a `.env.local` file in the root directory.
+2. Add the following environment variables:
 
-NEXT_PUBLIC_API_KEY=your-api-key
-PINECONE_INDEX=your-pinecone-index
-DATABASE_URL=your-database-url
+   ```bash
+   NEXT_PUBLIC_API_KEY=your-api-key
+   PINECONE_INDEX=your-pinecone-index
+   DATABASE_URL=your-database-url
 
 
 
@@ -58,19 +60,20 @@ Get relevant responses, including links to specific sections of the document for
 Text Extraction: Automatically parses text from PDF documents for easy querying.
 Contextual Understanding: Uses advanced AI models to understand and return answers based on the document's content.
 Multiple PDF Support: Handles queries across multiple documents seamlessly.
-🗂️ Project Structure
-plaintext
-Copy code
-QueryDocs/
-├── public/                # Static assets
-├── src/                   # Application source code
-│   ├── components/        # Reusable components
-│   ├── pages/             # Next.js pages
-│   ├── styles/            # Tailwind CSS styles
-│   └── utils/             # Utility functions
-├── .env.local.example      # Example of environment variables
-├── package.json           # Node.js dependencies
-└── README.md              # Project documentation
+
+## 🗂️ Project Structure
+
+- **QueryDocs/**
+  - **public/**: Static assets
+  - **src/**: Application source code
+    - **components/**: Reusable components
+    - **pages/**: Next.js pages
+    - **styles/**: Tailwind CSS styles
+    - **utils/**: Utility functions
+  - **.env.local.example**: Example of environment variables
+  - **package.json**: Node.js dependencies
+  - **README.md**: Project documentation
+
 📧 Contact
 For any inquiries or support, feel free to reach out:
 
