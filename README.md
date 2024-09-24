@@ -75,7 +75,7 @@ QueryDocs/
 For any inquiries or support, feel free to reach out:
 
 Email: danielkamaunganga3@gmail.com
-Website: nowayte.vercel.app
+Website: [Nowayte](https://nowayte.vercel.app)
 
 
 
