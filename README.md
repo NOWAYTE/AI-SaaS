@@ -74,11 +74,13 @@ Multiple PDF Support: Handles queries across multiple documents seamlessly.
   - **package.json**: Node.js dependencies
   - **README.md**: Project documentation
 
-📧 Contact
+## 📧 Contact
+
 For any inquiries or support, feel free to reach out:
 
-Email: danielkamaunganga3@gmail.com
-Website: [Nowayte](https://nowayte.vercel.app)
+- **Email**: danielkamaunganga3@gmail.com
+- **Website**: [Nowayte](https://nowayte.vercel.app)
+
 
 
 
