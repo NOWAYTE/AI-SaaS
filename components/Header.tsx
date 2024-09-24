@@ -4,6 +4,7 @@ import { Button } from "./ui/button";
 import { FilePlus2 } from "lucide-react";
 import UpgradeButton from "./UpgradeButton";
 
+
 function Header() {
   return (
     <div className="flex justify-between bg-white shadow-sm p-5 border-b">
